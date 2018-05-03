@@ -1,0 +1,9 @@
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\bin\Debug\b161210116_projeOdev.exe.config
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\bin\Debug\b161210116_projeOdev.exe
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\bin\Debug\b161210116_projeOdev.pdb
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.csprojResolveAssemblyReference.cache
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.Properties.Resources.resources
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.csproj.GenerateResource.Cache
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.exe
+c:\users\touchngo\documents\visual studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.pdb
+C:\Users\touchngo\Documents\Visual Studio 2015\Projects\b161210116_projeOdev\b161210116_projeOdev\obj\Debug\b161210116_projeOdev.AnaPencere.resources
